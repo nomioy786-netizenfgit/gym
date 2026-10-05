@@ -1,0 +1,6 @@
+{
+  "name": "GYM - Fitness Center & Membership",
+  "description": "Modern fitness center website with workout programs, trainer profiles, membership pricing plans, and instant WhatsApp joining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
